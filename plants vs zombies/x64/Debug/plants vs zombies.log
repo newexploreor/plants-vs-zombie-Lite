@@ -1,0 +1,43 @@
+﻿  main.cpp
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(173,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(195,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(194,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(238,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(269,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(272,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(271,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(320,28): warning C4244: “=”: 从“_Rep”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(320,28): warning C4244:         with
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(320,28): warning C4244:         [
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(320,28): warning C4244:             _Rep=__int64
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(320,28): warning C4244:         ]
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(325,28): warning C4244: “=”: 从“_Rep”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(325,28): warning C4244:         with
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(325,28): warning C4244:         [
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(325,28): warning C4244:             _Rep=__int64
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(325,28): warning C4244:         ]
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(393,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(394,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(412,20): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(413,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(444,36): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(446,18): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(447,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(466,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(466,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(467,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(467,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(469,23): warning C4305: “=”: 从“double”到“float”截断
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(526,46): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(526,29): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(534,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(771,11): warning C4101: “t”: 未引用的局部变量
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(771,8): warning C4101: “T”: 未引用的局部变量
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(821,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(1077,49): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(1077,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(1092,38): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(1092,25): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(1104,49): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(1104,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  plants vs zombies.vcxproj -> G:\vs2022\newproject\plants vs zombies\x64\Debug\plants vs zombies.exe

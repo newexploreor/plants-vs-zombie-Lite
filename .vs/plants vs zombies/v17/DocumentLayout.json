@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\vs2022\\newproject\\plants vs zombies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA732E6-BFD2-48AA-982B-33F5FABDCA80}|plants vs zombies\\plants vs zombies.vcxproj|G:\\vs2022\\newproject\\plants vs zombies\\plants vs zombies\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EA732E6-BFD2-48AA-982B-33F5FABDCA80}|plants vs zombies\\plants vs zombies.vcxproj|solutionrelative:plants vs zombies\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA732E6-BFD2-48AA-982B-33F5FABDCA80}|plants vs zombies\\plants vs zombies.vcxproj|G:\\vs2022\\newproject\\plants vs zombies\\plants vs zombies\\vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EA732E6-BFD2-48AA-982B-33F5FABDCA80}|plants vs zombies\\plants vs zombies.vcxproj|solutionrelative:plants vs zombies\\vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA732E6-BFD2-48AA-982B-33F5FABDCA80}|plants vs zombies\\plants vs zombies.vcxproj|G:\\vs2022\\newproject\\plants vs zombies\\plants vs zombies\\tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EA732E6-BFD2-48AA-982B-33F5FABDCA80}|plants vs zombies\\plants vs zombies.vcxproj|solutionrelative:plants vs zombies\\tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "G:\\vs2022\\newproject\\plants vs zombies\\plants vs zombies\\main.cpp",
+              "RelativeDocumentMoniker": "plants vs zombies\\main.cpp",
+              "ToolTip": "G:\\vs2022\\newproject\\plants vs zombies\\plants vs zombies\\main.cpp",
+              "RelativeToolTip": "plants vs zombies\\main.cpp",
+              "ViewState": "AQIAAKEEAAAAAAAAAAAAAKwEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-12T16:47:49.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vector2.cpp",
+              "DocumentMoniker": "G:\\vs2022\\newproject\\plants vs zombies\\plants vs zombies\\vector2.cpp",
+              "RelativeDocumentMoniker": "plants vs zombies\\vector2.cpp",
+              "ToolTip": "G:\\vs2022\\newproject\\plants vs zombies\\plants vs zombies\\vector2.cpp",
+              "RelativeToolTip": "plants vs zombies\\vector2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T15:49:19.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tools.cpp",
+              "DocumentMoniker": "G:\\vs2022\\newproject\\plants vs zombies\\plants vs zombies\\tools.cpp",
+              "RelativeDocumentMoniker": "plants vs zombies\\tools.cpp",
+              "ToolTip": "G:\\vs2022\\newproject\\plants vs zombies\\plants vs zombies\\tools.cpp",
+              "RelativeToolTip": "plants vs zombies\\tools.cpp",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-07T06:00:20.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

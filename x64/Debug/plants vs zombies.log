@@ -1,0 +1,16 @@
+﻿  main.cpp
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(81,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(127,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(157,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(160,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(159,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(137,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(216,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(217,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(218,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(269,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(270,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(271,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(272,26): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+G:\vs2022\newproject\plants vs zombies\plants vs zombies\main.cpp(273,26): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+  plants vs zombies.vcxproj -> G:\vs2022\newproject\plants vs zombies\x64\Debug\plants vs zombies.exe
